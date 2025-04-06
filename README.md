@@ -17,7 +17,7 @@ This project takes heavy inspiration from Tanenbaum’s _Modern Operating System
 
 ## Sources
 
-The sources are, as mentioned above, are "_Modern Operating Systems_" from Tannenbaum, aswell as (oswiki)[https://wiki.osdev.org/Expanded_Main_Page] and their recommended books.
+The sources are, as mentioned above, are "_Modern Operating Systems_" from Tannenbaum, aswell as [oswiki](https://wiki.osdev.org/Expanded_Main_Page) and their recommended books.
 
 
 ## Features (in progress)
