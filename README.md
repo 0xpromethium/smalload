@@ -1,6 +1,6 @@
 # smalload
 
-**smalload** is a small, educational C kernel designed as a learning project inspired by Andrew S. Tanenbaum’s _Modern Operating Systems_. It aims to implement core OS concepts in a minimalistic, understandable way—starting from scratch in C.
+**smalload** is a small, fast and efficient C kernel designed as a learning project inspired by Andrew S. Tanenbaum’s _Modern Operating Systems_. It aims to implement core OS concepts in a minimalistic, understandable way—starting from scratch, in KISS(Keep It Stupid Simple)-philosophy in C.
 
 ## Purpose
 
@@ -15,6 +15,11 @@ This project is an exploration of operating systems internals from the ground up
 
 This project takes heavy inspiration from Tanenbaum’s _Modern Operating Systems_, following many of the architectural and conceptual models described in the book. While not a direct copy, smalload borrows ideas from educational OS designs like MINIX.
 
+## Sources
+
+The sources are, as mentioned above, are "_Modern Operating Systems_" from Tannenbaum, aswell as (oswiki)[https://wiki.osdev.org/Expanded_Main_Page] and their recommended books.
+
+
 ## Features (in progress)
 
 - [ ] Bootable C kernel
@@ -27,8 +32,9 @@ This project takes heavy inspiration from Tanenbaum’s _Modern Operating System
 
 C is the language of operating systems. Writing a kernel in C provides:
 
-- Direct memory access and hardware control
-- Fine-grained performance management
-- An understanding of how abstractions in modern systems are actually implemented
-- A deep dive into the guts of how your machine works—without training wheels
+
+## When will this project be finished?
+
+Though question! I started this project to mainly learn C and lower-level languages, and will work on this project aside from my educational career, more like a hobby.
+Conclusio, the project can last up to 5 Months or 2 years.
 
