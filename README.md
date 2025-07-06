@@ -38,3 +38,7 @@ C is the language of operating systems. Writing a kernel in C provides:
 Though question! I started this project to mainly learn C and lower-level languages, and will work on this project aside from my educational career, more like a hobby.
 Conclusio, the project can last up to 5 Months or 2 years.
 
+
+### Update 2025
+
+Due to studies, this project will be put on ice. However, one day there will be a bootable kernel source. It will take some time
