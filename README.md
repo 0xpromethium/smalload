@@ -30,7 +30,7 @@ The sources are, as mentioned above, are "_Modern Operating Systems_" from Tanne
 
 ## Why C?
 
-C is the language of operating systems. Writing a kernel in C provides:
+C is the language of operating systems. C is cool.
 
 
 ## When will this project be finished?
