@@ -22,7 +22,7 @@ The sources are, as mentioned above, are "_Modern Operating Systems_" from Tanne
 
 ## Features (in progress)
 
-- [ ] Bootable C kernel
+- [x] Bootable C kernel
 - [ ] Simple command-line shell
 - [ ] Cooperative multitasking
 - [ ] Basic memory management
